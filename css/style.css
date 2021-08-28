@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.theme-bg-color{
+    background-color:#003085;
+}
+.theme-color{
+    color: #003085;
+}
+
+.nav_hover:hover
+{
+  color: #444BFF;
+  font-weight: 700;
+}
+.extra_margin{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.text-extra-large{
+    font-size: 55px;
+    font-weight: 200;
+}
