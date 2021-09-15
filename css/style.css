@@ -22,3 +22,10 @@ body{
     font-size: 55px;
     font-weight: 200;
 }
+
+/*Contact section*/
+.top{
+    background-image: url(images/contact-1.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+}
