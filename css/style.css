@@ -25,7 +25,21 @@ body{
 
 /*Contact section*/
 .top{
-    background-image: url(images/contact-1.jpg);
+    background-image: url("images/meye.jpg");
     background-repeat: no-repeat;
-    height: 400px;
+}
+
+/*About section*/
+.aboutPic{
+    background-color: #003085;
+    height: 200px;
+    
+}
+.extra_margin_bottom{
+    margin-bottom:10%;
+
+}
+.t-big{
+    font-size:65px;
+  
 }
